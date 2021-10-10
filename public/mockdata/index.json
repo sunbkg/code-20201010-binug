@@ -1,0 +1,44 @@
+{
+    "carList": [
+        {
+            "carName": "Benz",
+            "make": "GL5X",
+            "varient": "GL5X Petrol",
+            "image": "../static/images/benz.PNG",
+            "description": "Car description",
+            "price": "500000 - 800000",
+            "productId": "10001",
+            "new": false
+        },
+        {
+            "carName": "Audi",
+            "make": "GL6X",
+            "varient": "GL6X Petrol",
+            "image": "../static/images/audi.PNG",
+            "description": "Car description",
+            "price": "550000 - 900000",
+            "productId": "10002",
+            "new": false
+        },
+        {
+            "carName": "Mahindra",
+            "make": "GL7X",
+            "varient": "GL7X Diesel",
+            "image": "../static/images/mahindra.PNG",
+            "description": "Car description",
+            "price": "1000000 - 1500000",
+            "productId": "10003",
+            "new": true
+        },
+        {
+            "carName": "Maruti",
+            "make": "GL8X",
+            "varient": "GL8X Diesel",
+            "image": "../static/images/maruti.PNG",
+            "description": "Car description",
+            "price": "1000000 - 1500000",
+            "productId": "10004",
+            "new": true
+        }
+    ]
+}
